@@ -6,3 +6,9 @@
 Теперь мы плывём назад.:Now we are swimming back.
 Он бегает каждый вечер.:He runs every evening.
 Он ходит в школу каждый вечер.:He goes to school every evening.
+Мой друг любит яблоки.:My friend likes apples.
+Она инженер?:Is she an engineer?
+Её папа фермер?:Is her dad a farmer?
+Я водитель?:Am I a driver?
+Мы не читаем эту книгу?:Aren't we reading this book?
+Она не ест мясо?:Isn't she eating meat?
