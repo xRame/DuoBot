@@ -2,3 +2,5 @@ She has a dog, and the dog is strong.:У неё есть собака, и эта
 She loves their son.:Она любит их сына.
 A mouse? Yes, I see it.:Мышь? Да, я вижу её.
 It was not red.:Оно не было красным.
+Eighteen divided by three equals six.:Восемнадцать разделить на три равно шести.
+Fourteen divided by two equals seven.:Четырнадцать разделить на два равняется семи.

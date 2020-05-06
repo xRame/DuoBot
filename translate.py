@@ -196,8 +196,7 @@ def translate_to_en():
 	pyautogui.click(685, 672)
 	pyperclip.copy(answ)
 	pyautogui.hotkey('ctrl', 'v')
-	print(en_ru)
-	print(ru_en)
+
 	pyautogui.click(1362, 972)	
 	if (pyautogui.pixelMatchesColor(165, 955, (255, 193, 193), tolerance=2)):
 		pyautogui.moveTo(609, 954)
@@ -228,8 +227,7 @@ def translate_to_ru():
 	pyautogui.click(685, 672)
 	pyperclip.copy(answ)
 	pyautogui.hotkey('ctrl', 'v')
-	print(en_ru)
-	print(ru_en)
+
 	pyautogui.click(1362, 972)	
 	if (pyautogui.pixelMatchesColor(165, 955, (255, 193, 193), tolerance=2)):
 		pyautogui.moveTo(609, 954)
