@@ -7,6 +7,7 @@ import os
 
 en_ru = {}
 ru_en = {}
+choose3 = {}
 
 with open('en_ru.txt', encoding='UTF-8') as inp:
 	for i in inp.readlines():
@@ -16,14 +17,16 @@ with open('ru_en.txt', encoding='UTF-8') as inp:
 	for i in inp.readlines():
 		key,val = i.strip().split(':')
 		ru_en[key] = val
-
+with open('choose3.txt', encoding='UTF-8') as inp:
+	for i in inp.readlines():
+		key,val = i.strip().split(':')
+		choose3[key] = val
 
 
 
 def start():
 	go = False
 	while True:
-		print("as")
 		if (pyautogui.pixelMatchesColor(813, 395, (88, 204, 2), tolerance=10)):
 			print("start")
 			go = True
@@ -35,8 +38,11 @@ def start():
 			#print(quest)
 			if (pyautogui.pixelMatchesColor(165, 955, (184, 242, 139), tolerance=2)):
 				pyautogui.click(1358, 967)
+			elif (pyautogui.pixelMatchesColor(1020, 986, (24, 153, 214), tolerance=20)): #next lesson
+				pyautogui.click(1020, 986)	
 			elif pyautogui.pixelMatchesColor(1471, 160, (120, 200, 0), tolerance=20):	
 				go = False
+				print("Finish")
 			elif (pyautogui.pixelMatchesColor(1018, 335, (120, 200, 0), tolerance=10)): #end of a lesson
 				print("Finish")
 				go = False	
@@ -88,13 +94,12 @@ def fill():
 			time.sleep(.5)
 			check()
 			break
-		elif (pyautogui.pixelMatchesColor(165, 955, (255, 193, 193), tolerance=2)):
+		if (pyautogui.pixelMatchesColor(165, 955, (255, 193, 193), tolerance=2)):
 			answer == True
 			time.sleep(.5)
 			check()
 			break
-		else:
-			pass	
+
 
 def choose(arr):
 	r1 = re.sub('Отметьте слово ',"", arr)
@@ -129,27 +134,54 @@ def choose2():
 	pyautogui.hotkey('ctrl', 'c')
 	time.sleep(0.2)
 	text = pyperclip.paste()
+	text1 = text
 	text = ts.google(text, 'ru', 'en')
 	print(text)
+	try:
+		if choose3[text1] != 'None':
+			answ = ru_en[text]
+			print(choose3)
+			if(result3[0] == answ):
+				pyautogui.click(839, 531)
+			elif(result3[2] == answ):
+				pyautogui.click(849, 599)
+			else:
+				pyautogui.click(870, 668)
+	except KeyError:
+			pyautogui.moveTo(1287, 724)
+			pyautogui.dragTo(632, 461, duration=0.3)  # drag mouse to XY
+			time.sleep(0.5)
+			pyautogui.hotkey('ctrl', 'c')
+			time.sleep(0.2)
+			asnwerts = (str)(pyperclip.paste())
+			result2 = re.sub('\d',"", asnwerts)
+			result2 = re.sub('\r',"", result2)
+			result3 = result2.split('\n')
+			print(result3)
+			if(result3[0] == text):
+				pyautogui.click(839, 531)
+			elif(result3[2] == text):
+				pyautogui.click(849, 599)
+			else:
+				pyautogui.click(870, 668)
 
-	pyautogui.moveTo(1287, 724)
-	pyautogui.dragTo(632, 461, duration=0.3)  # drag mouse to XY
-	time.sleep(0.5)
-	pyautogui.hotkey('ctrl', 'c')
-	time.sleep(0.2)
-	asnwerts = (str)(pyperclip.paste())
-	result2 = re.sub('\d',"", asnwerts)
-	result2 = re.sub('\r',"", result2)
-	result3 = result2.split('\n')
-	print(result3)
-	if(result3[0] == text):
-		pyautogui.click(839, 531)
-	elif(result3[2] == text):
-		pyautogui.click(849, 599)
-	else:
-		pyautogui.click(870, 668)
- 
-	pyautogui.click(1362, 972)	
+	pyautogui.click(1362, 972)
+
+	if (pyautogui.pixelMatchesColor(165, 955, (255, 193, 193), tolerance=2)):
+		pyautogui.moveTo(609, 954)
+		pyautogui.dragTo(1156, 971, duration=0.3)  # drag mouse to XY
+		time.sleep(0.5)
+		pyautogui.hotkey('ctrl', 'c')
+		time.sleep(0.2)
+		choose3[text1] = (str)(pyperclip.paste())
+		print(choose3)
+		with open('choose3.txt','w', encoding='UTF-8') as out:
+			for key,val in choose3.items():
+				out.write('{}:{}\n'.format(key,val))
+
+
+
+
 	check()
 
 def write_smth(arr):

@@ -12,3 +12,17 @@
 Я водитель?:Am I a driver?
 Мы не читаем эту книгу?:Aren't we reading this book?
 Она не ест мясо?:Isn't she eating meat?
+Эта книга - новейшая.:This book is the newest.
+Надевайте свои куртки.:Put on your jackets.
+Ты играешь с ним сегодня вечером?:Are you playing with him tonight?
+Наш магазин открывается сегодня в шесть тридцать.:Our shop opens today at six thirty.
+во вторник:on Tuesday
+Я не знаю, когда он спит.:I don't know when he sleeps.
+В июне мы открывали наш новый магазин.:In June, we were opening our new shop.
+Они ответили что-нибудь?:Did they answer anything?
+Разве они не открыли магазин?:Didn't they open the shop?
+Он побрился, переоделся и выпил кофе.:He shaved, changed, and drank coffee.
+Хотя учёные пишут много, они - совсем не писатели.:While scientists write a lot they are not at all writers.
+Площадь этого дома - двести квадратных ярдов.:The area of this house is two hundred square yards.
+Ты инженер?:Are you an engineer?
+Я потерял сердце!:I lost a heart!
