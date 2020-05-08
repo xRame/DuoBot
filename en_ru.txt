@@ -33,3 +33,21 @@ Where is the bathroom?:Где туалет?
 This shoe is one size bigger.:Эта туфля на один размер больше.
 At least your back and your arms are not so hairy.:По крайней мере твои спина и руки не такие волосатые.
 Введите перевод на русский:Вода подходила к нашим шеям.
+She eats very little food at once.:Она съедает очень мало еды за один раз.
+He is a nurse.:Он медбрат.
+Do you see the little green spider up there?:Ты видишь маленького зелёного паука там наверху?
+If you buy some medicines for me, I will give you the money.:Если ты купишь мне некоторые лекарства, я отдам тебе деньги.
+Elephants can remember.:Слоны умеют помнить.
+In fairness, I should have punished him.:По справедливости, мне стоило бы наказать его.
+Yes, I remember hearing something.:Да, я помню, что слышала что-то.
+I went to the shop because I remembered to buy milk.:Я пошёл в магазин, потому что я вспомнил, что надо купить молока.
+I will shave and change, and then we can go.:Я побреюсь и переоденусь, а потом мы можем идти.
+In December, we will be opening three new shops.:В декабре мы будем открывать три новых магазина.
+I speak Russian, but only slowly.:Я говорю по-русски, но только медленно.
+We needed more time.:Нам нужно было больше времени.
+He needed our help.:Ему нужна была наша помощь.
+We read something about it a year ago.:Мы читали что-то об этом год назад.
+He had to go to school last year.:Он должен был ходить в школу в прошлом году.
+She could call yesterday but she didn't.:Она могла позвонить вчера, но она не стала.
+We were not married in two thousand four.:Мы не были женаты в две тысячи четвёртом.
+They were sixteen years old in two thousand ten.:Им было шестнадцать лет в две тысячи десятом.

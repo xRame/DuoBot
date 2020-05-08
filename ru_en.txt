@@ -26,3 +26,10 @@
 Площадь этого дома - двести квадратных ярдов.:The area of this house is two hundred square yards.
 Ты инженер?:Are you an engineer?
 Я потерял сердце!:I lost a heart!
+Магазин открывается через тридцать дней.:The shop opens in thirty days.
+Она заканчивает работу.:She finishes the work.
+Она это заканчивает.:She is finishing it.
+Теперь я бегаю легко.:Now I run easily.
+Она не танцевала?:Did she not dance?
+Она делала это легко.:She did it easily.
+Наши собаки были рождены в две тысячи двенадцатом.:Our dogs were born in two thousand twelve.
