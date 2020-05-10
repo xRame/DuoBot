@@ -9,24 +9,33 @@ en_ru = {}
 ru_en = {}
 choose3 = {}
 choose2 = {}
-
-with open('en_ru.txt', encoding='UTF-8') as inp:
-	for i in inp.readlines():
-		key,val = i.strip().split(':')
-		en_ru[key] = val
-with open('ru_en.txt', encoding='UTF-8') as inp:
-	for i in inp.readlines():
-		key,val = i.strip().split(':')
-		ru_en[key] = val
-with open('choose3.txt', encoding='UTF-8') as inp:
-	for i in inp.readlines():
-		key,val = i.strip().split(':')
-		choose3[key] = val
-with open('choose2.txt', encoding='UTF-8') as inp:
-	for i in inp.readlines():
-		key,val = i.strip().split(':')
-		choose2[key] = val
-
+write = {}
+print("DuoBot was started")
+try:
+	print("load library")
+	with open('en_ru.txt', encoding='UTF-8') as inp:
+		for i in inp.readlines():
+			key,val = i.strip().split(':')
+			en_ru[key] = val
+	with open('ru_en.txt', encoding='UTF-8') as inp:
+		for i in inp.readlines():
+			key,val = i.strip().split(':')
+			ru_en[key] = val
+	with open('choose3.txt', encoding='UTF-8') as inp:
+		for i in inp.readlines():
+			key,val = i.strip().split(':')
+			choose3[key] = val
+	with open('choose2.txt', encoding='UTF-8') as inp:
+		for i in inp.readlines():
+			key,val = i.strip().split(':')
+			choose2[key] = val
+	with open('write.txt', encoding='UTF-8') as inp:
+		for i in inp.readlines():
+			key,val = i.strip().split(':')
+			write[key] = val		
+	print("\tsuccec")		
+except ValueError:
+	print("there are some shit in file")
 
 def start():
 	go = True
@@ -36,25 +45,32 @@ def start():
 		# 	go = True
 		# 	pyautogui.click(1255, 969)
 		# else:
-		# 	go = False	
+		# 	go = False
+		quest1 = 'r'
+		ot = 0	
+		print("start cycle")
 		while go == True:
-			quest = get_quest()
+			
+			
 			#print(quest)
-			if (pyautogui.pixelMatchesColor(165, 955, (184, 242, 139), tolerance=2)):
-				pyautogui.click(1358, 967)
-			elif (pyautogui.pixelMatchesColor(1020, 986, (24, 153, 214), tolerance=20)): #next lesson
-				pyautogui.click(1020, 986)	
-			elif pyautogui.pixelMatchesColor(1471, 160, (120, 200, 0), tolerance=20):	
+			if (pyautogui.pixelMatchesColor(873, 982, (28, 176, 246), tolerance=20)): #next training
+				pyautogui.click(1237, 973)
+				time.sleep(3)	
+			elif (pyautogui.pixelMatchesColor(1219, 987, (28, 176, 246), tolerance=20)): #train again
+				pyautogui.click(1219, 987)
+				time.sleep(3)					
+			elif pyautogui.pixelMatchesColor(1447, 159, (120, 200, 0), tolerance=20):	
 				print("Finish")
-				go = False
+				time.sleep(10)
 			elif (pyautogui.pixelMatchesColor(1018, 335, (120, 200, 0), tolerance=10)): #end of a lesson
-				print("Finish")
-				go = False	
-			elif pyautogui.pixelMatchesColor(890, 360, (28, 176, 246), tolerance=2):
+				print("Finish1")
+				#go = False
+			check()
+			quest = get_quest()		
+			if pyautogui.pixelMatchesColor(890, 360, (28, 176, 246), tolerance=2):
 				skip_audio()
 			elif pyautogui.pixelMatchesColor(934, 433, (28, 176, 246), tolerance=2):	
 				skip_audio2()
-			
 			elif(quest == 'Повторите это предложение вслух'):
 				pyautogui.click(665, 972)
 			elif(quest =='Отметьте правильное значение'):
@@ -70,28 +86,29 @@ def start():
 			elif re.search(r'Отметьте \b', quest):	
 				choose(quest)
 			else:
-				break	
+				pyautogui.click(438, 977)
+				print("Finish2")	
 		return
 
 
 
-def choose_theme():
-	print()
-
 
 def skip_audio():
+	print("skip audio")
 	pyautogui.click(499, 936)
 	time.sleep(.5)
 	check()
 
 def skip_audio2():
+	print("skip audio2")
 	pyautogui.click(615, 970)
 	time.sleep(.5)
 	check()
 
 def fill():
-	pyautogui.moveTo(661, 392)
-	pyautogui.dragTo(1309, 393, duration=0.3)  # drag mouse to XY
+	print("start filling")
+	pyautogui.moveTo(561, 392)
+	pyautogui.dragTo(1309, 393, duration=0.5)  # drag mouse to XY
 	time.sleep(0.2)
 	pyautogui.hotkey('ctrl', 'c')
 	time.sleep(0.2)
@@ -100,7 +117,7 @@ def fill():
 	text = re.sub('\n.',"", text)
 	text = re.sub('\r',"", text)
 	pyautogui.moveTo(1287, 724)
-	pyautogui.dragTo(632, 461, duration=0.3)  
+	pyautogui.dragTo(532, 461, duration=0.5)  
 	time.sleep(0.5)
 	pyautogui.hotkey('ctrl', 'c')
 	time.sleep(0.2)
@@ -110,11 +127,12 @@ def fill():
 	result3 = result2.split('\n')
 	while("" in result3):
 		result3.remove("")
-	print(result3)
+	#print(result3)
 	try:
 		if (choose2[text] != 'None'): # если есть в списке
-			print("i know")
+			
 			answ = choose2[text]
+			print('\tI know the answer on "' + str(text) + '" is "' + str(answ)+ '"')
 			if(result3[0] == answ):
 				pyautogui.click(829, 586)
 			elif(result3[1] == answ):	
@@ -124,38 +142,95 @@ def fill():
 			else:
 				pyautogui.click(1102, 660)
 			pyautogui.click(1362, 972)
-			print("check")
+			#print("check")
 			check()	
-
-	except KeyError:							# если есть нет в списке
-			print("i don't know")
-			pyautogui.click(829, 586)
-			pyautogui.click(1362, 972)
-
+	except IndexError:
+			
+			print(pyautogui.pixelMatchesColor(569, 900, (255, 255, 255), tolerance=2))
+			print(pyautogui.pixelMatchesColor(592, 875, (255, 255, 255), tolerance=2))
 			if (pyautogui.pixelMatchesColor(1782, 971, (255, 193, 193), tolerance=2)): # проверка на ошибки 
-				if (pyautogui.pixelMatchesColor(594, 901, (255, 255, 255), tolerance=2)):
-					pyautogui.moveTo(606, 902)
+				if (pyautogui.pixelMatchesColor(569, 900, (255, 255, 255), tolerance=2)):# 4 words
+					pyautogui.moveTo(575, 902)
 					pyautogui.dragTo(955, 903, duration=0.5)  # drag mouse to XY
 					pyautogui.hotkey('ctrl', 'c')
 					time.sleep(0.2)
 					choose2[text] = (str)(pyperclip.paste())
-					print(choose2)
+					print("\tI don't know the answer,but at the next time i will answer: " + str(choose2[text]))
 					with open('choose2.txt','w', encoding='UTF-8') as out:
 						for key,val in choose2.items():
 							out.write('{}:{}\n'.format(key,val))
-				elif (pyautogui.pixelMatchesColor(592, 875, (255, 255, 255), tolerance=2)):
-					pyautogui.moveTo(608, 874)
+				elif (pyautogui.pixelMatchesColor(592, 875, (255, 255, 255), tolerance=2)): # 2 words
+					pyautogui.moveTo(575, 904)
 					pyautogui.dragTo(1074, 878, duration=0.5)  # drag mouse to XY
 					pyautogui.hotkey('ctrl', 'c')
 					time.sleep(0.2)
 					choose2[text] = (str)(pyperclip.paste())
-					print(choose2)
+					print("\tI don't know the answer,but at the next time i will answer: " + str(choose2[text]))
 					with open('choose2.txt','w', encoding='UTF-8') as out:
 						for key,val in choose2.items():
-							out.write('{}:{}\n'.format(key,val))			
+							out.write('{}:{}\n'.format(key,val))
+				elif (pyautogui.pixelMatchesColor(569, 874, (255, 255, 255), tolerance=2)): # 2 words
+					pyautogui.moveTo(583, 875)
+					pyautogui.dragTo(1074, 878, duration=0.5)  # drag mouse to XY
+					pyautogui.hotkey('ctrl', 'c')
+					time.sleep(0.2)
+					choose2[text] = (str)(pyperclip.paste())
+					print("\tI don't know the answer,but at the next time i will answer: " + str(choose2[text]))
+					with open('choose2.txt','w', encoding='UTF-8') as out:
+						for key,val in choose2.items():
+							out.write('{}:{}\n'.format(key,val))								
 				pyautogui.click(1356, 928)			
 			else:
 				choose2[text] = result3[0]
+				print("\tI don't know the answer,but at the next time i will answer: " + str(choose2[text]))
+				with open('choose2.txt','w', encoding='UTF-8') as out:
+					for key,val in choose2.items():
+						out.write('{}:{}\n'.format(key,val))
+				pyautogui.click(1356, 928)
+			
+	except KeyError:							# если есть нет в списке
+			
+			pyautogui.click(829, 586)
+			pyautogui.click(1362, 972)
+			time.sleep(.5)
+
+			print(pyautogui.pixelMatchesColor(569, 900, (255, 255, 255), tolerance=2))
+			print(pyautogui.pixelMatchesColor(592, 875, (255, 255, 255), tolerance=2))
+			if (pyautogui.pixelMatchesColor(1782, 971, (255, 193, 193), tolerance=2)): # проверка на ошибки 
+				if (pyautogui.pixelMatchesColor(569, 900, (255, 255, 255), tolerance=2)):# 4 words
+					pyautogui.moveTo(575, 902)
+					pyautogui.dragTo(955, 903, duration=0.5)  # drag mouse to XY
+					pyautogui.hotkey('ctrl', 'c')
+					time.sleep(0.2)
+					choose2[text] = (str)(pyperclip.paste())
+					print("\tI don't know the answer,but at the next time i will answer: " + str(choose2[text]))
+					with open('choose2.txt','w', encoding='UTF-8') as out:
+						for key,val in choose2.items():
+							out.write('{}:{}\n'.format(key,val))
+				elif (pyautogui.pixelMatchesColor(592, 875, (255, 255, 255), tolerance=2)): # 2 words
+					pyautogui.moveTo(575, 904)
+					pyautogui.dragTo(1074, 878, duration=0.5)  # drag mouse to XY
+					pyautogui.hotkey('ctrl', 'c')
+					time.sleep(0.2)
+					choose2[text] = (str)(pyperclip.paste())
+					print("\tI don't know the answer,but at the next time i will answer: " + str(choose2[text]))
+					with open('choose2.txt','w', encoding='UTF-8') as out:
+						for key,val in choose2.items():
+							out.write('{}:{}\n'.format(key,val))
+				elif (pyautogui.pixelMatchesColor(569, 874, (255, 255, 255), tolerance=2)): # 2 words
+					pyautogui.moveTo(583, 875)
+					pyautogui.dragTo(1074, 878, duration=0.5)  # drag mouse to XY
+					pyautogui.hotkey('ctrl', 'c')
+					time.sleep(0.2)
+					choose2[text] = (str)(pyperclip.paste())
+					print("\tI don't know the answer,but at the next time i will answer: " + str(choose2[text]))
+					with open('choose2.txt','w', encoding='UTF-8') as out:
+						for key,val in choose2.items():
+							out.write('{}:{}\n'.format(key,val))								
+				pyautogui.click(1356, 928)			
+			else:
+				choose2[text] = result3[0]
+				print("\tI don't know the answer,but at the next time i will answer: " + str(choose2[text]))
 				with open('choose2.txt','w', encoding='UTF-8') as out:
 					for key,val in choose2.items():
 						out.write('{}:{}\n'.format(key,val))
@@ -163,6 +238,7 @@ def fill():
 
 
 def choose(arr):
+	print("start choose")
 	r1 = re.sub('Отметьте слово ',"", arr)
 	r2 = re.sub(r"[«»]","", r1)		#choose a word
 	r2 = ts.google(r2, 'ru', 'en').lower()
@@ -189,7 +265,8 @@ def choose(arr):
 	check()
 
 def choose_3():
-	pyautogui.moveTo(661, 392)
+	print("start choosing from 3")
+	pyautogui.moveTo(561, 392)
 	pyautogui.dragTo(1309, 393, duration=0.5)  # drag mouse to XY
 	pyautogui.hotkey('ctrl', 'c')
 	time.sleep(0.2)
@@ -207,17 +284,19 @@ def choose_3():
 	result3 = result2.split('\n')
 	while("" in result3):
 		result3.remove("")
-	print(result3)
+	#print(result3)
 	try:
 		answ = choose3[text1]
 		print(answ)
+		print("\tI know the answer on" + str(text1) + ' is: ' + str(answ))
 		if(result3[0] == answ):
 			pyautogui.click(839, 531)
 		elif(result3[1] == answ):
 			pyautogui.click(849, 599)
 		else:
 				pyautogui.click(870, 668)
-	except KeyError:		
+	except KeyError:
+		print("\ti trying by myslef")		
 		if(result3[0] == text):
 			pyautogui.click(839, 531)
 		elif(result3[1] == text):
@@ -228,13 +307,13 @@ def choose_3():
 	pyautogui.click(1362, 972)
 
 	if (pyautogui.pixelMatchesColor(165, 955, (255, 193, 193), tolerance=2)):
-		pyautogui.moveTo(609, 954)
+		pyautogui.moveTo(582, 954)
 		pyautogui.dragTo(1156, 971, duration=0.3)  # drag mouse to XY
 		time.sleep(0.5)
 		pyautogui.hotkey('ctrl', 'c')
 		time.sleep(0.2)
 		choose3[text1] = (str)(pyperclip.paste())
-		#print(choose3)
+		print("\tI don't know the answer,but at the next time i will answer: " + str(choose3[text1]))
 		with open('choose3.txt','w', encoding='UTF-8') as out:
 			for key,val in choose3.items():
 				out.write('{}:{}\n'.format(key,val))
@@ -245,14 +324,37 @@ def choose_3():
 	check()
 
 def write_smth(arr):
+	print("start write somthing")
 	r1 = re.sub('Напишите',"", arr)
 	r1 = re.sub(' на английском',"", r1)
-	r2 = re.sub(r'[""]',"", r1)		#choose a word
-	r2 = ts.google(r2, 'ru', 'en').lower()
-	pyautogui.click(928, 566)
-	pyperclip.copy(r2)
-	pyautogui.hotkey('ctrl', 'v')
-	pyautogui.click(1362, 972)	
+	r1 = re.sub(r'[""]',"", r1)		#choose a word
+	r2 = ts.google(r1, 'ru', 'en').lower()
+	
+	try:
+		answ = write[r1]
+		print("\tI know the answer on" + str(r1) + ' is: ' + str(answ))
+		pyautogui.click(928, 566)
+		pyperclip.copy(answ)
+		pyautogui.hotkey('ctrl', 'v')
+		pyautogui.click(1362, 972)
+	except KeyError:
+		print("\ti trying by myslef")				
+		pyautogui.click(928, 566)
+		pyperclip.copy(r2)
+		pyautogui.hotkey('ctrl', 'v')
+		pyautogui.click(1362, 972)
+	time.sleep(.5)
+	if (pyautogui.pixelMatchesColor(175, 973, (255, 193, 193), tolerance=2)):
+		pyautogui.moveTo(576, 957)
+		pyautogui.dragTo(986, 950, duration=0.3)  # drag mouse to XY
+		time.sleep(0.5)
+		pyautogui.hotkey('ctrl', 'c')
+		time.sleep(0.2)
+		write[r1] = (str)(pyperclip.paste())
+		print("\tI don't know the answer,but at the next time i will answer: " + str(write[r1]))
+		with open('write.txt','w', encoding='UTF-8') as out:
+			for key,val in write.items():
+				out.write('{}:{}\n'.format(key,val))	
 	check()
 
 def get_quest():
@@ -265,7 +367,7 @@ def get_quest():
 	return text
 
 def get_text():
-	pyautogui.moveTo(675, 394)
+	pyautogui.moveTo(575, 394)
 	pyautogui.dragTo(1400, 412, duration=0.3)  # drag mouse to XY
 	time.sleep(0.5)
 	pyautogui.hotkey('ctrl', 'c')
@@ -274,6 +376,7 @@ def get_text():
 	return text
 
 def translate_to_en():
+	print("start translate_to_en")
 	text = get_text()
 	answ = ts.google(text, 'ru', 'en')
 	try:
@@ -282,6 +385,7 @@ def translate_to_en():
 			ru_en[text]=answ
 		else:
 			answ = ru_en[text]
+			print("\tI know the answer on" + str(text) + ' is: ' + str(answ))
 	except KeyError:
 		pass
 
@@ -291,12 +395,13 @@ def translate_to_en():
 
 	pyautogui.click(1362, 972)	
 	if (pyautogui.pixelMatchesColor(165, 955, (255, 193, 193), tolerance=2)):
-		pyautogui.moveTo(609, 954)
-		pyautogui.dragTo(1156, 971, duration=0.3)  # drag mouse to XY
+		pyautogui.moveTo(576, 955)
+		pyautogui.dragTo(1156, 971, duration=0.5)  # drag mouse to XY
 		time.sleep(0.5)
 		pyautogui.hotkey('ctrl', 'c')
 		time.sleep(0.2)
 		ru_en[text] = (str)(pyperclip.paste())
+		print("\tI don't know the answer,but at the next time i will answer: " + str(ru_en[text]))
 		with open('ru_en.txt','w', encoding='UTF-8') as out:
 			for key,val in ru_en.items():
 				out.write('{}:{}\n'.format(key,val))
@@ -305,6 +410,7 @@ def translate_to_en():
 	check()
 
 def translate_to_ru():
+	print("start translate_to_ru")
 	text = get_text()
 	answ = ts.google(text, 'en', 'ru')
 	try:
@@ -313,6 +419,7 @@ def translate_to_ru():
 			en_ru[text]=answ
 		else:
 			answ = en_ru[text]
+			print("\tI know the answer on" + str(text) + ' is: ' + str(answ))
 	except KeyError:
 		pass
 
@@ -322,12 +429,13 @@ def translate_to_ru():
 
 	pyautogui.click(1362, 972)	
 	if (pyautogui.pixelMatchesColor(165, 955, (255, 193, 193), tolerance=2)):
-		pyautogui.moveTo(609, 954)
-		pyautogui.dragTo(1156, 971, duration=0.3)  # drag mouse to XY
+		pyautogui.moveTo(576, 955)
+		pyautogui.dragTo(1156, 971, duration=.5)  # drag mouse to XY
 		time.sleep(0.5)
 		pyautogui.hotkey('ctrl', 'c')
 		time.sleep(0.2)
 		en_ru[text] = (str)(pyperclip.paste())
+		print("\tI don't know the answer,but at the next time i will answer: " + str(en_ru[text]))
 		with open('en_ru.txt','w', encoding='UTF-8') as out:
 			for key,val in en_ru.items():
 				out.write('{}:{}\n'.format(key,val))
