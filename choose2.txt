@@ -80,7 +80,11 @@ Three important calls will befor tomorrow.:scheduled
 Did youmy credit card last week?:use
 What was the current exchangethat day?:rate
 Adultswhen we played quietly in our room.:liked
+<<<<<<< HEAD
 This morning, the exchangeof all currencies have changed:Сегодня вы заработали  очков опыта
+=======
+This morning, the exchangeof all currencies have changed:rates
+>>>>>>> master
 My niece loves him more because heher toys.:buys
 I am not going toanything to this buyer.:sell
 Does she have her own savings:account
@@ -146,6 +150,7 @@ It is good that youthe rules.:followed
 Hecoffee six days a week.:drinks
 A kitchen is a room where people:cook
 Theirwere yellow.:jackets
+<<<<<<< HEAD
 I love fresh white:snow
 They worked a lot,houses and schools for all of us.:building
 Their dog is notthan ours.:bigger
@@ -269,3 +274,5 @@ I amyou.:follows
 She wanted tobut could not.:change
 We werebut they interrupted us.:work
 Theis mine.:suit
+=======
+>>>>>>> master

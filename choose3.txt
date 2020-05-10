@@ -116,6 +116,7 @@
 Я - человек и гражданин.:I am a man and a citizen.
 Сними свой плащ!:Take off your coat!
 Она готовила мне рыбу.:She cooked me fish.
+<<<<<<< HEAD
 Моя кошка спит под диваном.:My cat is sleeping under the sofa.
 Она ходит в школу пешком.:She goes to school by foot.
 Тот лес - старый и мёртвый, не ходи туда!:That forest is old and dead, don't go there!
@@ -213,3 +214,5 @@
 Многие учащиеся той школы стали художниками.:Many students of that school became artists.
 Мои сёстры не пойдут в школу этой осенью, они слишком:My sisters will not go to school this fall, they are too young.
 Она художник, как и её мать.:She is an artist like her mother.
+=======
+>>>>>>> master

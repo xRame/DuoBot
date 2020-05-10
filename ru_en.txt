@@ -80,6 +80,7 @@
 Ты опоздал вчера?:Were you late yesterday?
 У меня раньше было много друзей, которые были художниками и:I used to have a lot of friends who were artists and writers.
 Она всегда хотела стать писателем.:She has always wanted to become a writer.
+<<<<<<< HEAD
 В тот год у нас были дождливая осень и снежная зима.:That year we had a rainy fall and a snowy winter.
 Эта туфля на один размер больше.:This shoe is one size bigger.
 Это крыша.:This is a roof.
@@ -124,3 +125,5 @@
 В воскресенье будет идти дождь весь день.:On Sunday, it will be raining all day.
 На этой стороне улицы находятся только дома с чётными:There are only houses with even numbers on this side of the street.
 Моя бабушка - гражданка США.:My grandmother is a citizen of the USA.
+=======
+>>>>>>> master

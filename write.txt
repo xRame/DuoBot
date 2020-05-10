@@ -1,5 +1,6 @@
 магазин:a shop
 машина:a car
+<<<<<<< HEAD
 коричневый на:brown
 костюм (деловой) на:a suit, a suit, the suit, suit
 часы (наручные) на:a watch, the watches, watches, a watch, the
@@ -11,5 +12,8 @@
  коричневый на:brown
  растительное масло на:vegetable oil
  колокольчик на:a bell
+=======
+ коричневый на:brown
+>>>>>>> master
  костюм (деловой) на:a suit, a suit, the suit, suit
  часы (наручные) на:a watch, the watches, watches, a watch, the
