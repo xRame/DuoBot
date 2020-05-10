@@ -1,0 +1,15 @@
+магазин:a shop
+машина:a car
+коричневый на:brown
+костюм (деловой) на:a suit, a suit, the suit, suit
+часы (наручные) на:a watch, the watches, watches, a watch, the
+ палец руки на:a finger
+ обед:lunch, a lunch, the lunch, lunch
+ черепаха (сухопутная) на:a turtle, a turtle, the turtle, turtle
+ четырнадцать на:fourteen
+ машина:a car
+ коричневый на:brown
+ растительное масло на:vegetable oil
+ колокольчик на:a bell
+ костюм (деловой) на:a suit, a suit, the suit, suit
+ часы (наручные) на:a watch, the watches, watches, a watch, the
