@@ -1,0 +1,5 @@
+магазин:a shop
+машина:a car
+ коричневый на:brown
+ костюм (деловой) на:a suit, a suit, the suit, suit
+ часы (наручные) на:a watch, the watches, watches, a watch, the

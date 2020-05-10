@@ -29,3 +29,90 @@
 Это самая большая игрушка?:Is it the biggest toy?
 Я должна была попросить о помощи.:I had to ask for help.
 Давай добавим его в твои контакты.:Let's add him to your contacts.
+Сколько яблок мы едим ежедневно?:How many apples do we eat every day?
+Я получаю четыреста имейлов в неделю.:I receive four hundred emails a week.
+Смотри прямо на синюю игрушку!:Look right at the blue toy!
+Хотя я хотел помочь, я не знал, что делать.:Though I wanted to help, I did not know what to do.
+Она должна была быть там двадцать минут назад.:She had to be there twenty minutes ago.
+Твоя дочь приехала сюда восемьдесят дней назад.:Your daughter arrived here eighty days ago.
+Моя мать чувствует себя лучше сегодня.:My mother feels better today.
+Короче, мы нашли много проблем в их системе.:Long story short, we found many problems in their system.
+Я - автор этих работ.:I am the author of the works.
+Это задняя нога собаки.:It is the hind leg of the dog.
+Она стояла рядом со мной, но не помогла.:She stood near me but did not help.
+Я встал.:I stood up.
+Сегодня солнечно и тепло.:It is sunny and warm today.
+Вчера он получил сообщение от своей бывшей девушки.:Yesterday, he got a message from his ex-girlfriend.
+Есть множество причин этой проблемы.:There are many causes of this problem.
+Он теперь горд собой?:Is he now proud of himself?
+Вам стоит спросить себя, зачем вам нужен английский.:You should ask yourselves why you need English.
+Я уже поговорил с ними.:I have already talked to them.
+Она уже взяла красную шапку.:She has already taken the red hat.
+Мы не пели вместе уже шесть месяцев.:We haven't sung together for six months.
+Я не видел её с прошлой недели.:I haven't seen her since last week.
+Сколько мяса он готовит?:How much meat is he cooking?
+Ты когда-нибудь пила красный чай?:Have you ever drunk red tea?
+Я был женат дважды, и я не хочу делать этого снова.:I have been married twice, and I don't want to do it again.
+Он выигрывает.:He is winning.
+В нашей семье жена зарабатывает, а муж тратит.:In our family, the wife earns and the husband spends.
+Он не ест с тобой?:Isn't he eating with you?
+Вы когда-нибудь говорили это своим родственникам?:Have you ever said that to your relatives?
+Она будет работать сорок часов в неделю, двадцать дней в месяц:She will work forty hours a week, twenty days a month, and we will pay her weekly.
+Мы играем сегодня в полдень.:We are playing today at noon.
+Мы читали что-то об этом год назад.:We read something about it a year ago.
+Мой доход увеличивается.:My income increases.
+Я заплатил так много за этот телефон, а он не работает.:I paid so much for this phone, and it does not work.
+Мы никогда не видели их вместе.:We've never seen them together.
+Ребёнок бегает с флагом.:The child runs with the flag.
+Девочка надевает это платье.:The girl puts the dress on.
+В углу:In a corner
+Чемоданы готовы.:The suitcases are ready.
+Глубина важна.:The depth is important.
+Она не слушала.:She was not listening.
+Не прыгай, ты можешь упасть.:Do not jump, you might fall.
+Я ваш тренер.:I am your coach.
+Она говорит по-французски.:She speaks French.
+Я думаю об этом уже какое-то время, но я всё ещё не знаю.:I have been thinking about it for a while, but I still do not know.
+Это бы означало ждать ещё дольше.:It would mean waiting even longer.
+Я видел знаменитую актрису.:I saw a famous actress.
+Все говорят о ней хорошо.:Everybody speaks well of her.
+Они не могли никогда заработать достаточно, чтобы иметь:They could never earn enough to have savings.
+Мы поженились в прошлом году.:We married last year.
+Эта игрушка продаётся очень хорошо.:This toy sells very well.
+На этой неделе он проводит всё своё время со мной.:This week, he has been spending all his time with me.
+Продажи уменьшились в этом году.:The sales have decreased this year.
+Не говори ничего, если только у тебя нет идеи получше.:Do not say anything unless you have a better idea.
+Он родился зимой, двадцать восьмого февраля.:He was born in winter, on February twenty-eighth.
+В моей семье меньше мужчин, чем женщин.:There are fewer men than women in my family.
+Но это значит, что мы потратим две трети нашего бюджета.:But it means that we will spend two-thirds of our budget.
+Он вычел шестнадцать из восьмидесяти девяти.:He subtracted sixteen from eighty nine.
+Вчера мы перемножали и делили только нечётные числа.:Yesterday, we multiplied and divided only odd numbers.
+На улице холодно и темно.:It is cold and dark outside.
+Лошади будут бежать вдоль реки.:The horses will be running along the river.
+Я бегаю по полчаса после каждого приёма пищи.:I run for half an hour after every meal.
+Она выпьет этот кофе?:Will she drink the coffee?
+Что она пишет?:What is she writing?
+Я читаю её книгу.:I'm reading her book.
+Оно летит.:It's flying.
+Спокойной ночи, увидимся!:Good night, see you!
+Я в порядке, спасибо!:I'm fine, thanks!
+Это животное.:It is an animal.
+Это дикая свинья.:It is a wild pig.
+Это была не наша идея.:It was not our idea.
+Ты не играешь со своей собакой?:Aren't you playing with your dog?
+Они не читают.:They are not reading.
+Я не хочу помогать им.:I don't want to help them.
+Она не читает его книгу.:She is not reading his book.
+Его книги интересные, а их - нет.:His books are interesting, but theirs are not.
+Кого он видит?:Whom does he see?
+Эта книга - новейшая.:This book is the newest.
+Я не собираюсь с ними играть.:I am not going to play with them.
+Она будет отвечать на ваши вопросы с трёх до пяти часов.:She will be answering your questions from three to five o'clock.
+Он - старший сын.:He is the oldest son.
+Поезд опоздал?:Was the train late?
+Вчера шёл дождь.:It rained yesterday.
+Было так много возможностей поговорить с ней, но он не сделал:There were so many chances to talk with her, but he didn't do that.
+Что они предлагают нам?:What are they offering us?
+Я - человек и гражданин.:I am a man and a citizen.
+Сними свой плащ!:Take off your coat!
+Она готовила мне рыбу.:She cooked me fish.
