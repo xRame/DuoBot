@@ -53,10 +53,23 @@ I have a credit:card
 Three important calls will befor tomorrow.:scheduled
 When sheyou about me, tell her that I am not at home.:asks
 Did youmy credit card last week?:use
+<<<<<<< HEAD
 This room is more oftenby women.:used
 He neverus.:loved
 They thought that I wouldthem to take my money.:allow
 Theseare my friends.:boys
+=======
+What was the current exchangethat day?:rate
+Adultswhen we played quietly in our room.:liked
+<<<<<<< HEAD
+This morning, the exchangeof all currencies have changed:Сегодня вы заработали  очков опыта
+=======
+This morning, the exchangeof all currencies have changed:rates
+>>>>>>> master
+My niece loves him more because heher toys.:buys
+I am not going toanything to this buyer.:sell
+Does she have her own savings:account
+>>>>>>> master
 I did not think that she wouldthem to live together.:allow
 These boys are our:actors
 She has beenall her money on horses lately.:spending
@@ -132,11 +145,19 @@ He willonly with me.:play
 We trust:him
 I trust:him
 It is good that youthe rules.:followed
+<<<<<<< HEAD
 Weour own house when I was fourteen.:bought
 The book wasby my grandfather for fifty rubles.:bought
 What are theyus?:offering
 Theis mine.:suit
 Who likesweather?:rainy
+=======
+Hecoffee six days a week.:drinks
+A kitchen is a room where people:cook
+Theirwere yellow.:jackets
+<<<<<<< HEAD
+I love fresh white:snow
+>>>>>>> master
 They worked a lot,houses and schools for all of us.:building
 Their dog is notthan ours.:bigger
 She didn't give the apple to me. She ate it:herself
@@ -228,7 +249,14 @@ Do me a leave me alone!:favor
 Everyone lovesup and down!:jumping
 We werebut they interrupted us.:working
 She wanted tobut could not.:change
+<<<<<<< HEAD
 His new book is:shorter
 Did she tell you why sheup with him?:broke
 When he they were still playing.:left
 Why did she go there withoutme?:telling
+=======
+We werebut they interrupted us.:work
+Theis mine.:suit
+=======
+>>>>>>> master
+>>>>>>> master

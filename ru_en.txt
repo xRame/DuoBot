@@ -50,12 +50,24 @@
 Я видел его на другой стороне улицы.:I saw him on the other side of the street.
 Холодная и снежная погода продолжалась.:The cold and snowy weather continued.
 Она всегда хотела стать писателем.:She has always wanted to become a writer.
+<<<<<<< HEAD
 Было так много возможностей поговорить с ней, но он не сделал:There were so many chances to talk with her, but he didn't do that.
 Моя бабушка - гражданка США.:My grandmother is a citizen of the USA.
 Вчера шёл снег?:Did it snow yesterday?
 Где находится кухня?:Where is the kitchen?
 Ты инженер?:Are you an engineer?
 У человека десять пальцев.:A man has ten fingers.
+=======
+<<<<<<< HEAD
+В тот год у нас были дождливая осень и снежная зима.:That year we had a rainy fall and a snowy winter.
+Эта туфля на один размер больше.:This shoe is one size bigger.
+Это крыша.:This is a roof.
+У девочки глаза отца и нос матери.:The girl has the father's eyes and the mother's nose.
+Её грудь красная.:Her chest is red.
+Слоны умеют помнить.:Elephants can remember.
+Если ты купишь мне некоторые лекарства, я отдам тебе деньги.:If you buy some medicines for me, I will give you the money.
+Медведь из Канады.:The bear is from Canada.
+>>>>>>> master
 Нам нужны действия - не слова.:We need actions, not words.
 Если ты купишь мне некоторые лекарства, я отдам тебе деньги.:If you buy some medicines for me, I will give you the money.
 Мы уже потратили все свои деньги и не могли купить даже чаю ил:We had already spent all our money and couldn't buy even tea or coffee.
@@ -96,6 +108,7 @@
 Убывающее число родителей проводят достаточно времени со:A decreasing number of parents spend enough time with their children.
 Он родился зимой, двадцать восьмого февраля.:He was born in winter, on February twenty-eighth.
 Они никогда не разговаривают во время приёмов пищи.:They never talk during meals.
+<<<<<<< HEAD
 Мы копили деньги, чтобы взять ипотеку.:We were saving money to take a mortgage.
 Он заработал полмиллиарда с тысяча девятьсот девяностого.:He has earned a half billion since nineteen ninety.
 Мы переплыли ту реку несколько раз.:We swam across that river several times.
@@ -161,3 +174,14 @@
 Я никогда не говорил так.:I've never said so.
 Это круговорот жизни.:This is the circle of life.
 Он читал одну из тех книг, которые я оставил для него тем утром.:He was reading one of those books which I left for him that morning.
+=======
+Лошади будут бежать вдоль реки.:The horses will be running along the river.
+Собаки продолжили двигаться на другую сторону улицы.:The dogs kept moving across the street.
+Она держала свои руки под бегущей водой.:She kept her hands under the running water.
+Она плавает каждый вечер.:She swims every evening.
+В воскресенье будет идти дождь весь день.:On Sunday, it will be raining all day.
+На этой стороне улицы находятся только дома с чётными:There are only houses with even numbers on this side of the street.
+Моя бабушка - гражданка США.:My grandmother is a citizen of the USA.
+=======
+>>>>>>> master
+>>>>>>> master

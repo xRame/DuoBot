@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 семнадцать на:seventeen
 угол:a corner, a corner, the corner, corner
+=======
+магазин:a shop
+машина:a car
+<<<<<<< HEAD
+>>>>>>> master
 коричневый на:brown
 растительное масло на:vegetable oil
 часы (наручные) на:a watch, the watches, watches, a watch, the
@@ -16,4 +22,15 @@
 черепаха (сухопутная) на:a turtle, a turtle, the turtle, turtle
 зубная щётка на:a toothbrush
  машина:a car
+<<<<<<< HEAD
  семнадцать на:seventeen
+=======
+ коричневый на:brown
+ растительное масло на:vegetable oil
+ колокольчик на:a bell
+=======
+ коричневый на:brown
+>>>>>>> master
+ костюм (деловой) на:a suit, a suit, the suit, suit
+ часы (наручные) на:a watch, the watches, watches, a watch, the
+>>>>>>> master

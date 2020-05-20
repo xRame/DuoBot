@@ -111,6 +111,7 @@
 Кто пьёт из этой чашки?:Who drinks from this cup?
 Она надевает своё пальто.:She puts her coat on.
 Сними свой плащ!:Take off your coat!
+<<<<<<< HEAD
 Мои сёстры не пойдут в школу этой осенью, они слишком:My sisters will not go to school this fall, they are too young.
 Площадь этого дома - двести квадратных ярдов.:The area of this house is two hundred square yards.
 Эти девочки пишут на этих стенах.:The girls write on the walls.
@@ -126,6 +127,18 @@
 Ты и я будем гулять в парке, если там не будет много людей.:You and I will walk in the park if there are not many people.
 оранжевая блузка:an orange blouse
 Мы обязаны спасти белых медведей.:We must save white bears.
+=======
+Она готовила мне рыбу.:She cooked me fish.
+<<<<<<< HEAD
+Моя кошка спит под диваном.:My cat is sleeping under the sofa.
+Она ходит в школу пешком.:She goes to school by foot.
+Тот лес - старый и мёртвый, не ходи туда!:That forest is old and dead, don't go there!
+Она родила девочку.:She gave birth to a girl.
+Одно из самых больших животных - слон.:One of the biggest animals is the elephant.
+Она на обеде, но она вернётся через пятнадцать минут.:She is at lunch, but she will be back in fifteen minutes.
+Ты видишь маленького зелёного паука там наверху?:Do you see the little green spider up there?
+Если ты купишь мне некоторые лекарства, я отдам тебе деньги.:If you buy some medicines for me, I will give you the money.
+>>>>>>> master
 Они измерили его вес?:Did they measure its weight?
 Эта деятельность противозаконна.:This activity is against the law.
 Они снова делают ошибку.:They are making a mistake again.
@@ -179,6 +192,7 @@
 Ты хочешь самый маленький?:Do you want the smallest one?
 Давайте встретимся сегодня в шесть.:Let's meet today at six.
 в полдень:at noon
+<<<<<<< HEAD
 Они возьмут красную шляпу.:They'll take the red hat.
 Я не буду отвечать с десяти вечера до семи утра.:I won't be answering from ten p.m. to seven a.m..
 В июне мы открывали наш новый магазин.:In June, we were opening our new shop.
@@ -234,3 +248,20 @@
 Он студент?:Is he a student?
 Продажи уменьшились в этом году.:The sales have decreased this year.
 Я жертвую деньги уже какое-то время, но не очень долго.:I have been donating money for a while, but not for very long.
+=======
+Это - самый короткий ответ, который я могу дать.:It is the shortest answer that I can give.
+Красный карандаш намного меньше коричневого карандаша.:The red pencil is much smaller than the brown pencil.
+Они не будут играть в пять, они будут играть в одиннадцать часов.:They won't be playing at five, they will be playing at eleven o'clock.
+Обычно она одевалась хорошо, но в тот день она была одета:Usually she dressed well, but that day she was dressed badly.
+Это худший фильм.:It is the worst movie.
+Моя сестра шлёт мне слишком много текстовых сообщений.:My sister sends me too many text messages.
+Я следую за тобой.:I am following you.
+Одна чашка равна шестнадцати столовым ложкам.:One cup equals sixteen tablespoons.
+Ты используешь много масла?:Do you use much oil?
+На кухне - пожар.:There is a fire in the kitchen.
+Многие учащиеся той школы стали художниками.:Many students of that school became artists.
+Мои сёстры не пойдут в школу этой осенью, они слишком:My sisters will not go to school this fall, they are too young.
+Она художник, как и её мать.:She is an artist like her mother.
+=======
+>>>>>>> master
+>>>>>>> master
