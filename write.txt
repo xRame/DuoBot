@@ -1,16 +1,19 @@
- семнадцать на:seventeen
- угол:a corner, a corner, the corner, corner
- коричневый на:brown
- растительное масло на:vegetable oil
- часы (наручные) на:a watch, the watches, watches, a watch, the
- колокольчик на:a bell
- костюм (деловой) на:a suit, a suit, the suit, suit
- обувь:shoes, the shoes, shoes
- туалет:a bathroom
- палец руки на:a finger
+семнадцать на:seventeen
+угол:a corner, a corner, the corner, corner
+коричневый на:brown
+растительное масло на:vegetable oil
+часы (наручные) на:a watch, the watches, watches, a watch, the
+колокольчик на:a bell
+костюм (деловой) на:a suit, a suit, the suit, suit
+обувь:shoes, the shoes, shoes
+туалет:a bathroom
+палец руки на:a finger
+машина:a car
+восемнадцать на:eighteen
+дерево:a tree, a tree, the tree, tree
+обед:lunch, a lunch, the lunch, lunch
+роза:a rose, a rose, the rose, rose
+черепаха (сухопутная) на:a turtle, a turtle, the turtle, turtle
+зубная щётка на:a toothbrush
  машина:a car
- восемнадцать на:eighteen
- дерево:a tree, a tree, the tree, tree
- обед:lunch, a lunch, the lunch, lunch
- роза:a rose, a rose, the rose, rose
- черепаха (сухопутная) на:a turtle, a turtle, the turtle, turtle
+ семнадцать на:seventeen
