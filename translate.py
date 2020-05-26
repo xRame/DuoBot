@@ -326,7 +326,8 @@ def choose_3():
 def write_smth(arr):
 	print("start write somthing")
 	r1 = re.sub('Напишите',"", arr)
-	r1 = re.sub(' на английском',"", r1)
+	r1 = re.sub(' на',"", r1)
+	r1 = re.sub(' английском',"", r1)
 	r1 = re.sub(r'[""]',"", r1)		#choose a word
 	r2 = ts.google(r1, 'ru', 'en').lower()
 	
