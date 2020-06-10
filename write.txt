@@ -1,5 +1,15 @@
-угол:a corner, a corner, the corner, corner
-костюм (деловой) на:a suit, a suit, the suit, suit
+костюм (деловой):a suit, a suit, the suit, suit
+часы (наручные):a watch, the watches, watches, a watch, the
 туалет:a bathroom
-черепаха (сухопутная) на:a turtle, a turtle, the turtle, turtle
-бабушка:a grandmother
+черепаха (сухопутная):a turtle, a turtle, the turtle, turtle
+машина:a car
+дерево:a tree, a tree, the tree, tree
+угол:a corner, a corner, the corner, corner
+ручка (для письма):a pen, a pen, the pen, pen
+ костюм (деловой):a suit, a suit, the suit, suit
+ бабушка:a grandmother
+ туалет:a bathroom
+ черепаха (сухопутная):a turtle, a turtle, the turtle, turtle
+ обед:lunch, a lunch, the lunch, lunch
+ дерево:a tree, a tree, the tree, tree
+ машина:a car

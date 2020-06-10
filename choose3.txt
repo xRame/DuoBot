@@ -1,244 +1,270 @@
-Никто меня не слушал.:Nobody listened to me.
-Кто тренер этой команды?:Who is the coach of the team?
-Все говорят о ней хорошо.:Everybody speaks well of her.
-Они проверили сотни ответов прежде, чем они проверили твой.:They had checked hundreds of answers before they checked yours.
-Не говори ничего, если только у тебя нет идеи получше.:Do not say anything unless you have a better idea.
-Мой годовой доход уменьшается.:My annual income decreases.
-Где они жили в ноябре?:Where were they living in November?
-Этот налог будет уменьшен в следующем году.:This tax will be decreased next year.
-В этом месяце я уменьшила свой долг по кредитке.:This month, I have decreased my credit card debt.
-Я буду свободен двадцатого июля.:I will be free on July twentieth.
-Она видит только увеличивающиеся цены и уменьшающиеся:She sees only increasing prices and decreasing salaries.
-Если бы я мог, я бы понизил цену для вас, но я не могу.:If I could, I would decrease the price for you, but I can't.
-В прошлом году мы продали четырнадцать домов тринадцати:
-Они никогда не разговаривают во время приёмов пищи.:They never talk during meals.
-Сперва раздели его на десять, а затем умножь на семь.:First divide it by ten and then multiply by seven.
-Мы пойдём плавать?:Will we go to swim?
-Эта игрушка продаётся очень хорошо.:This toy sells very well.
-Мы должны будем взять ипотеку, чтобы купить этот дом.:We'll have to take a mortgage to buy this house.
-Я родилась седьмого октября.:I was born on October seventh.
-Спасибо, я знаю.:Thanks, I know.
-Пока, увидимся!:Bye, see you!
-Обычно я читаю её книги.:Usually I read her books.
-Спокойной ночи, увидимся!:Good night, see you!
-Я водитель?:Am I a driver?
-Некоторые из его братьев сильные, а некоторые - нет.:Some of his brothers are strong, and some are not.
-в полдень:at noon
-Это была не наша идея.:It was not our idea.
-Она начинает петь.:She is beginning to sing.
-Завтра она будет спать с шести до двенадцати часов.:Tomorrow she will be sleeping from six to twelve o'clock.
-Это продолжается сегодня.:It continues today.
+Вы не сёстры.:You aren't sisters.
+Их ребёнок голоден.:Their child is hungry.
+Они не мои друзья.:They aren't my friends.
+Мы не спим?:Aren't we sleeping?
+Он напишет книгу.:He'll write a book.
 Холодная и снежная погода продолжалась.:The cold and snowy weather continued.
 Поезд опоздал?:Was the train late?
-Сегодня холоднее.:It is colder today.
-Хотя учёные пишут много, они - совсем не писатели.:While scientists write a lot they are not at all writers.
-Эти красные ножницы твои?:Are the red scissors yours?
-Отметьте правильное значение:
-Слоны умеют помнить.:Elephants can remember.
-Включите говядину в их меню!:Include beef in their menu!
-Наш сын всегда спал в своей собственной кровати.:Our son has always slept in his own bed.
-Она родила девочку.:She gave birth to a girl.
-Это - кусок мяса.:It is a piece of meat.
-Это дикая свинья.:It is a wild pig.
-Кто тот повар, с которым он говорит?:Who is that cook to whom he is speaking?
-Она рассказала мне о своей работе с группами по правам:She told me about her work with animal rights groups.
+Я не буду отвечать с десяти вечера до семи утра.:I won't be answering from ten p.m. to seven a.m..
+Они не будут играть в пять, они будут играть в одиннадцать часов.:They won't be playing at five, they will be playing at eleven o'clock.
+Я не хочу помогать им.:I don't want to help them.
+Пять умножить на ноль равно нулю.:Five times zero equals zero.
+Почему ты пишешь карандашом?:Why are you writing with a pencil?
+В этом году холоднее.:It is colder this year.
+Вчера шёл дождь.:It rained yesterday.
+Тот лес - старый и мёртвый, не ходи туда!:That forest is old and dead, don't go there!
+Она поворачивает направо.:She turns to the right.
+Эти девочки пишут на этих стенах.:The girls write on the walls.
+Она приходит к нам сегодня вечером.:She is coming to us tonight.
+Этот цветок - разновидность розы.:This flower is a type of rose.
+Чью книгу они читают? - Её.:Whose book are they reading? - Hers.
+Есть кто-нибудь там?:Is anybody there?
+Мне нравятся часы того цвета.:I like the watch in that color.
+Она художник, как и её мать.:She is an artist like her mother.
+Среди всех наших правил это является наиболее важным.:Among all our rules, this one is the most important.
+Они измерили его вес?:Did they measure its weight?
+Студенты могут изменить свою программу после второго курса.:The students can change their program after the second year.
+Мы едим на полу.:We eat on the floor.
 Я могу видеть, почему именно она не верит тебе.:I can see why exactly she does not believe you.
-Ты и я будем гулять в парке, если там не будет много людей.:You and I will walk in the park if there are not many people.
+Она готовила мне рыбу.:She cooked me fish.
 Это опасное заболевание?:Is it a dangerous disease?
+Сегодня мы поговорим о самоуважении.:Today we'll talk about self-respect.
+Я спрашиваю, где она проживала с марта по сентябрь.:I am asking where she was living from March to September.
+Я пошёл в магазин, потому что я вспомнил, что надо купить молок:I went to the shop because I remembered to buy milk.
+Нам нужны действия - не слова.:We need actions, not words.
 Эта деятельность противозаконна.:This activity is against the law.
+Вы идёте слишком медленно.:You are walking too slowly.
 У них большие рты.:They have large mouths.
-Делая большие деньги, не забывай о других людях.:Making big money, do not forget about other people.
+Дети обычно имеют двадцать молочных зубов.:Children usually have twenty baby teeth.
 Видно у неё есть много друзей.:It appears she has many friends.
-Все вещи должны быть на своих местах.:All things must be in their places.
-Если ты купишь мне некоторые лекарства, я отдам тебе деньги.:If you buy some medicines for me, I will give you the money.
-Они смогли добраться до пятой двери без каких-либо проблем.:They were able to reach the fifth door without any problem.
+Она заканчивает работу.:She finishes the work.
 Она не прибыла.:She didn't arrive.
-Она не танцевала?:Did she not dance?
+Курение запрещено во всех наших поездах.:Smoking is prohibited in all our trains.
 По крайней мере твои спина и руки не такие волосатые.:At least your back and your arms are not so hairy.
-Они разговаривают за моей спиной.:They talk behind my back.
-Это не случится, если она будет работать быстро.:It will not happen if she works quickly.
+Она упала на свою руку.:She fell on her arm.
+Что происходит?:What is happening?
+Она всегда хотела стать писателем.:She has always wanted to become a writer.
+Они поют или танцуют?:Are they singing or dancing?
+Она не танцевала?:Did she not dance?
+Это показывает, как много мы о себе знаем.:That shows how much we know about ourselves.
+Они не рисуют кошку?:Aren't they drawing a cat?
+Магазин открывается сегодня в шесть тридцать.:The shop opens today at six thirty.
+Будет несколько вопросов от родителей, но не много.:There will be several questions from the parents, but not many.
+Позднее она спросила меня об этом.:Later she asked me about that.
 Мне хочется увидеть город.:I feel like seeing the city.
-Я забыл, что смотрел этот фильм.:I have forgotten watching this movie.
-Они не играют с этим ребёнком?:Aren't they playing with this child?
-Он - учитель. Это - интересная работа.:He is a teacher. It is an interesting job.
-Магазин открывается через двадцать минут.:The shop opens in twenty minutes.
-У меня есть почва для этих растений.:I have soil for the plants.
-Я получаю сотни имейлов, а он получает тысячи.:I get hundreds of emails and he gets thousands.
-Я гулял по пятьдесят минут каждый вечер.:I walked for fifty minutes every evening.
-Она стояла рядом со мной, но не помогла.:She stood near me but did not help.
-Я встал.:I stood up.
-Тебе следует прочесть это письмо настолько внимательно,:You should read this letter as carefully as you can.
-Сейчас слишком ветрено.:It is too windy now.
-Я уже пробежал четырнадцать миль на этой неделе.:I have already run fourteen miles this week.
-Позвони ей! Она ещё не ушла домой.:Call her! She has not gone home yet.
-пять детей и четыре фрукта:five children and four fruit
-Он не пел в течение двух лет.:He hasn't sung for two years.
-Я не видел её с прошлой недели.:I haven't seen her since last week.
-Она уже взяла красную шапку.:She has already taken the red hat.
-Сколько яблок мы едим ежедневно?:How many apples do we eat every day?
-Я вижу маленькое животное.:I see a little animal.
-Попробуй пение перед сном, это может помочь.:Try singing before sleep, it might help.
-Она попыталась бежать быстрее, но не смогла.:She tried to run faster but could not.
-Она писала что-то, но остановилась, когда я вошёл.:She was writing something but stopped when I came in.
-Он должен был ходить в школу в прошлом году.:He had to go to school last year.
+Он обнял её, и они поцеловались.:He hugged her, and they kissed.
+Я ещё не заплатила за платье.:I have not paid for the dress yet.
+Гараж недостаточно большой для их автомобиля.:The garage is not big enough for their car.
+Когда я получаю сообщение, я отправляю его Виктору.:When I get a message, I send it to Victor.
+Я готовил то мясо, которое они мне послали ранее.:I was cooking the meat which they had sent me earlier.
+Сам текст не был написан мной.:The text itself wasn't written by me.
+Давайте назначим встречу с ними.:Let's schedule a meeting with them.
+Чтобы назначить встречу, пожалуйста, звоните в рабочие часы.:To schedule a meeting, please call during office hours.
+Он всё ещё не умел ходить, даже когда ему было два года.:He still could not walk even when he was two years old.
+Как много встреч она хочет назначить?:How many meetings does she want to schedule?
+Я уже приняла шестнадцать звонков. Мне нужна помощь.:I have already taken sixteen calls. I need help.
 Мы улыбаемся потому что мы счастливы.:We are smiling because we are happy.
-Чтобы купить этот дом, мне пришлось заплатить много денег.:To buy this house I had to pay a lot of money.
+Я - автор этих работ.:I am the author of the works.
+Это задняя нога собаки.:It is the hind leg of the dog.
+Ты сможешь прийти завтра?:Will you be able to come tomorrow?
 Они работают много, но зарабатывают очень мало.:They work a lot but earn very little.
-Моя жена либо дома, либо в банке.:My wife is either at home or in the bank.
-Женщина надевает шляпу.:The woman is putting on a hat.
-У тебя есть свежее яблоко.:You have a fresh apple.
-Даже у неё есть велосипед.:Even she has a bicycle.
-Им было шестнадцать лет в две тысячи десятом.:They were sixteen years old in two thousand ten.
-Мой доход увеличивается.:My income increases.
-Они собирались отбыть в полдень.:They were going to leave at noon.
+Чемоданы готовы.:The suitcases are ready.
+мой папа:my dad
+Есть множество способов сделать это.:There are many ways to do it.
+Я никогда не пила банановое молоко.:I have never drunk banana milk.
+Он поёт не так тихо, как ему нужно петь.:He does not sing as quietly as he needs to sing.
+Это мой краб!:It is my crab!
+Я потерял свой паспорт.:I lost my passport.
 Мы никогда не видели их вместе.:We've never seen them together.
+Что вы собираетесь делать на выходных?:What are you going to do on the weekend?
 Они никогда меня не видели.:They've never seen me.
 Я никогда не говорил так.:I've never said so.
-Не прыгай, ты можешь упасть.:Do not jump, you might fall.
-Мы шли сквозь огонь и воду.:We went through fire and water.
 Им нравится эта ферма.:They like the farm.
-Кажется, что Вера много летает.:It seems that Vera flies a lot.
-Их банковская система - намного лучше.:Their bank system is much better.
-Я послушал эту песню дважды.:I listened to the song twice.
-Она не слушала.:She was not listening.
-Это бы означало ждать ещё дольше.:It would mean waiting even longer.
+Эта информация не должна попасть в неправильные руки.:This information should not get into the wrong hands.
+Мои ответы - неверные.:My answers are wrong.
+Они собирались отбыть в полдень.:They were going to leave at noon.
+Она собиралась прийти в девять.:She was going to come at nine.
+Люди обожают рассказывать истории про себя, своих друзей и:People love to tell stories about themselves, their friends and relatives.
+В мае мы пили только воду, никакого чая и никакого кофе.:In May, we were drinking only water, no tea and no coffee.
+Хотя я хотел помочь, я не знал, что делать.:Though I wanted to help, I did not know what to do.
 Это означало быть в одиночестве несколько лет.:It meant being alone for several years.
-Распродажа начинается сейчас.:The sale starts now.
-Это будет его двадцатая книга.:It will be his twentieth book.
-Это бы означало, что она любит его.:It would mean that she loves him.
-Один из моих сыновей - актёр, другой - бухгалтер.:One of my sons is an actor, another one is an accountant.
-Я видел знаменитую актрису.:I saw a famous actress.
-Он теперь горд собой?:Is he now proud of himself?
-Он ест вилкой.:He eats with a fork.
-Я читаю её книгу.:I'm reading her book.
-Мы поживём с родителями моей жены с июля по октябрь.:We will be living with my wife's parents from July to October.
-Становилось прохладно.:It was getting chilly.
-Да, я знаю их обеих.:Yes, I know them both.
-Он родился зимой, двадцать восьмого февраля.:He was born in winter, on February twenty-eighth.
-На следующей неделе будет тепло, но не жарко.:It will be warm but not hot next week.
-Она думала, что я был её парнем.:She thought that I was her boyfriend.
-Она часто гуляла дольше чем девяносто минут.:She often walked for more than ninety minutes.
-В июне мы открывали наш новый магазин.:In June, we were opening our new shop.
-Он вычел шестнадцать из восьмидесяти девяти.:He subtracted sixteen from eighty nine.
-Мой дядя торгует рыбой.:My uncle sells fish.
-Я собираюсь ответить на твой вопрос во вторник.:I am going to answer your question on Tuesday.
-Его седьмой имейл не был написан на русском.:His seventh email was not written in Russian.
-Мы переплыли ту реку несколько раз.:We swam across that river several times.
-Он заработал полмиллиарда с тысяча девятьсот девяностого.:He has earned a half billion since nineteen ninety.
-Я в порядке, спасибо!:I'm fine, thank you!
-Собаки медленно обошли вокруг меня.:The dogs slowly walked around me.
-Я не плохой человек.:I am not a bad man.
-Эти дети плачут?:Are these children crying?
-чёрная рыба и четыре белые рыбы:a black fish and four white fish
-Мы не братья.:We aren't brothers.
-Обычно она одевалась хорошо, но в тот день она была одета:Usually she dressed well, but that day she was dressed badly.
-Мы не спим?:Aren't we sleeping?
-Ты хочешь самый маленький?:Do you want the smallest one?
-Они выпьют весь кофе.:They'll drink all the coffee.
-Я не буду отвечать с десяти вечера до семи утра.:I won't be answering from ten p.m. to seven a.m..
-Осталось лишь треть бутылки.:There is only one third of the bottle left.
-Моя мама помогла мне ответить на ваш вопрос.:My mother helped me to answer your question.
-Когда я позвонил ему, он проверял свои голосовые сообщения.:When I called him, he was checking his voice messages.
-Их старшая дочь замужем.:Their oldest daughter is married.
-Эта лампа - дорогая.:The lamp is expensive.
-Одна чашка равна шестнадцати столовым ложкам.:One cup equals sixteen tablespoons.
-Два минус два равно нулю.:Two minus two equals zero.
-Было так много возможностей поговорить с ней, но он не сделал:There were so many chances to talk with her, but he didn't do that.
-Я - человек и гражданин.:I am a man and a citizen.
-Это колокольчик.:That is a bell.
-Вчера я трогал птицу.:Yesterday I touched a bird.
-Куда ты летишь этим летом?:Where are you flying this summer?
-Эти девочки пишут на этих стенах.:The girls write on the walls.
-Эта стена синяя.:The wall is blue.
-Всякая ветчина - свинина, но не всякая свинина - ветчина.:All ham is pork but not all pork is ham.
-Вода подходила к нашим шеям.:The water was coming up to our necks.
-Сколько стоит этот диван?:How much is this sofa?
-Она инженер?:Is she an engineer?
-У меня слабая грудь.:I have a weak chest.
-Цвет его кожи - красный.:The color of his skin is red.
-Верины глаза - голубые.:Vera's eyes are blue.
-Он повернул свою голову в мою сторону.:He turned his head toward me.
-Не пейте ничего, включая воду.:Do not drink anything including water.
-Я на первом этаже.:I am on the first floor.
-Комната Джона рядом с туалетом.:John's room is next to the bathroom.
-Ты видишь маленького зелёного паука там наверху?:Do you see the little green spider up there?
+Есть множество причин этой проблемы.:There are many causes of this problem.
+Я послушал эту песню дважды.:I listened to the song twice.
+Этот магазин на углу улицы.:The shop is on the corner of the street.
 С января по апрель он будет летать туда каждую неделю.:From January to April, he will be flying there each week.
-Студенты могут изменить свою программу после второго курса.:The students can change their program after the second year.
-Это маленький кусочек.:It is a little piece.
-Они измерили его вес?:Did they measure its weight?
-Моя мама любит резать фрукты.:My mother likes to cut fruit.
-Это май.:It is May.
-В этом дворе утка.:There is a duck in the yard.
-Я влюблена!:I am in love!
-Он возвращается этой весной.:He is coming back this spring.
-Она там не жила.:She did not live there.
-Они открыли свой магазин шестьдесят лет назад.:They opened their shop sixty years ago.
-Я не хотел жить с ними.:I didn't want to live with them.
-Я пошёл в магазин, потому что я вспомнил, что надо купить молок:I went to the shop because I remembered to buy milk.
-Они снова делают ошибку.:They are making a mistake again.
-Курение запрещено во всех наших поездах.:Smoking is prohibited in all our trains.
-Мы редко читаем их книги.:We seldom read their books.
-Согласно этому закону, они имеют право пожениться.:According to this law, they have a right to marry.
-Он достиг того возраста, когда люди верят, что они знают всё.:He reached that age when people believe that they know everything.
-в пятницу:on Friday
-Мои родители поженились только пять лет назад.:My parents married only five years ago.
-Да, я была там лишь недавно.:Yes, I was there only recently.
-Они не продают ни куриного мяса, ни куриных яиц.:They sell neither chicken meat nor chicken eggs.
-Разве они не открыли магазин?:Didn't they open the shop?
-Это показывает, как много мы о себе знаем.:That shows how much we know about ourselves.
-Я работала восемнадцать часов в день на трёх работах.:I worked eighteen hours a day on three jobs.
-Эти вопросы были заданы учителями, а те были заданы:These questions were asked by teachers, and those were asked by parents.
-Имя вашего учителя написано здесь.:The name of your teacher is written here.
-Она отправляет мне все сообщения, которые она получает.:She sends me all the messages which she gets.
-У тебя есть почва?:Do you have soil?
-Эти дома были построены в тысяча пятьсот сорок четвёртом.:These houses were built in fifteen forty-four.
-Они уезжают в полночь.:They are leaving at midnight.
-Она ещё не заплатила.:She has not paid yet.
-Гараж недостаточно большой для их автомобиля.:The garage is not big enough for their car.
-Мы уже поговорили с ней сегодня утром.:We have already talked to her this morning.
-оранжевое платье:an orange dress
-Дождя не было с понедельника.:It hasn't rained since Monday.
-Она не готовит рис.:She is not cooking rice.
-Я никогда не проверяю его сообщения.:I never check his messages.
-Они не видели друг друга с того времени.:They haven't seen each other since that time.
-Молоко и сахар добавлены в кофе.:Milk and sugar are added to the coffee.
-Он уже ушёл. Но я не думаю, что он пошёл домой.:He has already gone. But I don't think that he went home.
-Давай встретимся в моём офисе в пять.:Let's meet in my office at five.
-Я не вижу его лицо.:I don't see his face.
-Тем не менее я не могу сказать это ему в лицо.:However, I can't say that to his face.
-Ей почти шестьдесят .:She is almost sixty.
-Он думает, что результаты будут очень плохие.:He thinks that the results will be very bad.
-Она будет работать сорок часов в неделю, двадцать дней в месяц:She will work forty hours a week, twenty days a month, and we will pay her weekly.
-Девочка надевает это платье.:The girl puts the dress on.
-Чемоданы готовы.:The suitcases are ready.
-Глубина важна.:The depth is important.
-Я никогда не пила банановое молоко.:I have never drunk banana milk.
-Хотя мы живём в одном доме, мы никогда не разговариваем друг с:Though we live in the same house, we never talk to each other.
-Я жду тебя уже два часа.:I have been waiting for you for two hours.
-Текущий обменный курс - меньше двух центов за один рубль.:The current exchange rate is less than two cents for one ruble.
-Я думаю об этом уже какое-то время, но я всё ещё не знаю.:I have been thinking about it for a while, but I still do not know.
 Те кассиры считают наличные слишком медленно.:Those cashiers count cash too slowly.
-Они не могли никогда заработать достаточно, чтобы иметь:They could never earn enough to have savings.
+Его рабочий день начинается с кофе.:His work day starts with coffee.
+Когда она станет моей женой, я буду любить её даже больше.:When she becomes my wife I will love her even more.
+Он теперь горд собой?:Is he now proud of himself?
 Мы не можем отдать всю нашу прибыль.:We cannot give away all our profit.
-Она никогда не думает о себе.:She never thinks about herself.
-Никто не ответил на мой вопрос.:Nobody answered my question.
-Я поживу там с апреля по октябрь.:I will be living there from April to October.
-Я лечу домой.:I am flying home.
-Оплатил ли он тот штраф до того, как он заплатил свои налоги?:Had he paid that fine before he paid his taxes?
-Мы ели только рис с ноября по февраль.:We were eating only rice from November to February.
-Мы получаем сотни и даже тысячи телефонных звонков в день.:We receive hundreds and even thousands of phone calls a day.
-Она пойдёт к своему сыну.:She'll go to her son.
-Вчера мы перемножали и делили только нечётные числа.:Yesterday, we multiplied and divided only odd numbers.
+Она видит только увеличивающиеся цены и уменьшающиеся:She sees only increasing prices and decreasing salaries.
+Одиннадцать минус пять равняется шести.:Eleven minus five equals six.
+Она пришла девятой, а я пришёл десятым.:She came ninth and I came tenth.
+Я никогда не надеялся, что она скажет да.:I never hoped that she would say yes.
+Он родился зимой, двадцать восьмого февраля.:He was born in winter, on February twenty-eighth.
+Теперь мы плывём назад.:Now we are swimming back.
+Я читаю её книгу.:I'm reading her book.
+Он ест вилкой.:He eats with a fork.
+Она вернётся домой через четыре часа.:She'll be back home in four hours.
+Увеличенные штрафы помогут нам получить больше денег.:The increased fines will help us get more money.
+Она будет хорошо спать в этот раз.:She'll sleep fine this time.
+Я проверил его адрес прежде, чем я пошёл к нему.:I had checked his address before I went to him.
+Твоя свинья маленькая и чёрная.:Your pig is little and black.
+Пока, увидимся!:Bye, see you!
+Ты увидишь мою семью.:You'll see my family.
+Мой брат продавец фруктов.:My brother is a seller of fruit.
+Этот телефон - дорогой, а тот другой - дешёвый.:This phone is expensive and that other one is cheap.
 В последнее время он проводит всё своё свободное время со:Lately, he has been spending all his free time with his sons.
-Мы не продали ничего вчера, мы обязаны продать что-нибудь:We sold nothing yesterday, we must sell something today.
-Мы поможем им.:We'll help them.
-Ладно, увидимся.:Ok, see you.
-Лошади будут бежать вдоль реки.:The horses will be running along the river.
-То были не птицы.:Those were not birds.
+Когда мы были детьми, мы обожали играть возле реки.:When we were children, we loved to play near the river.
+Обычно я читаю её книги.:Usually I read her books.
+Ты не играешь со своей собакой?:Aren't you playing with your dog?
+Она выпьет этот кофе?:Will she drink the coffee?
+Я люблю запах старых книг.:I like the smell of old books.
+Спокойной ночи, увидимся!:Good night, see you!
+Она начинает петь.:She is beginning to sing.
+Некоторые собаки чёрные, а некоторые - нет.:Some dogs are black, and some are not.
+Некоторые из его ответов не были интересными.:Some of his answers weren't interesting.
+Это продолжается сегодня.:It continues today.
+У нас было три мяча. Мячи были маленькие.:We had three balls. The balls were small.
+Он будет отвечать на письма с девяти утра до пяти вечера.:He will be answering letters from nine a.m. to five p.m..
+Она будет отвечать на ваши вопросы с трёх до пяти часов.:She will be answering your questions from three to five o'clock.
+Это худший фильм.:It is the worst movie.
+Она проверяла новые сообщения, когда она получила моё.:She was checking new messages, when she got mine.
+Их старшая дочь замужем.:Their oldest daughter is married.
+Мы слышали какую-то музыку.:We heard some music.
+Ничто не могло прорезать его насквозь.:Nothing could cut it through.
+В воскресенье будет идти дождь весь день.:On Sunday, it will be raining all day.
+Я еду домой этой весной, повидать своих родителей.:I am going home this spring, to see my parents.
+Они не играют этим летом.:They are not playing this summer.
+Эти красные ножницы твои?:Are the red scissors yours?
+Я меньше, чем ты.:I am smaller than you.
+В каждой группе будет десять студентов.:There will be ten students in each group.
+Я трогала эту кошку.:I touched the cat.
+Вчера я трогал птицу.:Yesterday I touched a bird.
+Эта стена синяя.:The wall is blue.
+Это май.:It is May.
+Вода подходила к нашим шеям.:The water was coming up to our necks.
+Этот ребёнок трогал эту кошку.:The child was touching the cat.
+Сперва мы должны отрезать мёртвые корни.:First we have to cut out the dead roots.
+Что они предлагают нам?:What are they offering us?
+Моя кошка спит под диваном.:My cat is sleeping under the sofa.
+Мои родители старые, а её - молодые.:My parents are old, but hers are young.
+Она хотела измениться, но не могла.:She wanted to change but could not.
+Наш сын всегда спал в своей собственной кровати.:Our son has always slept in his own bed.
+Давай добавим его в твои контакты.:Let's add him to your contacts.
+Моя мама любит резать фрукты.:My mother likes to cut fruit.
+У меня есть рис.:I have rice.
+Мы разговаривали о нём, когда я получила его сообщение.:We were talking about him when I received his message.
+Мы подумаем об этом.:We'll think about it.
+Где туалет?:Where is the bathroom?
+Покажи язык, пожалуйста!:Show your tongue please!
+Если она продолжит делать это, она будет наказана.:If she keeps doing that, she will be punished.
+Я влюблена!:I am in love!
+Город может иметь свои собственные законы.:A city might have its own laws.
+Я не получал никаких сообщений от них пока.:I have not gotten any messages from them yet.
+Оставьте мне сообщение, и я вам перезвоню.:Leave me a message and I will call you back.
+Мы редко читаем их книги.:We seldom read their books.
+Мне нужно закончить работу.:I need to finish the work.
+Она это заканчивает.:She is finishing it.
+Все вещи должны быть на своих местах.:All things must be in their places.
+Я знаю одно место, которое ей нравится.:I know a place that she likes.
+Он достиг того возраста, когда люди верят, что они знают всё.:He reached that age when people believe that they know everything.
+Если ты купишь мне некоторые лекарства, я отдам тебе деньги.:If you buy some medicines for me, I will give you the money.
+Я смотрела утренние новости, пока он брился.:I was watching morning news while he was shaving.
+Она даже не смогла позвонить мне.:She could not even call me.
+Она могла позвонить вчера, но она не стала.:She could call yesterday but she didn't.
+Они не играют с этим ребёнком?:Aren't they playing with this child?
+Она ещё не заплатила.:She has not paid yet.
+Сейчас слишком ветрено.:It is too windy now.
+Эти вопросы были заданы учителями, а те были заданы:These questions were asked by teachers, and those were asked by parents.
+Сегодня мы будем говорить только по-русски.:Today, we will be speaking only Russian.
+Он даже не прочитал саму книгу.:He didn't even read the book itself.
+Позвони ей! Она ещё не ушла домой.:Call her! She has not gone home yet.
+Она съедает очень мало еды за один раз.:She eats very little food at once.
+Она попыталась бежать быстрее, но не смогла.:She tried to run faster but could not.
+Она уже взяла красную шапку.:She has already taken the red hat.
+Женщина надевает шляпу.:The woman is putting on a hat.
+Мой доход увеличивается.:My income increases.
+Ты когда-нибудь пила красный чай?:Have you ever drunk red tea?
+Она читает газеты во время завтрака.:She reads newspapers during breakfast.
+Он разговаривает на французском.:He is speaking French.
+Поговори с ним, если ты грустна.:Talk with him if you are sad.
+Она не слушала.:She was not listening.
+Мы посмотрим его вместе, когда твоя сестра придёт домой.:We will watch it together when your sister comes home.
+Когда я заработаю достаточно денег, я куплю новый дом.:When I earn enough money, I will buy a new house.
+Я не собираюсь им помогать, если только они не заплатят мне:I am not going to help them unless they pay me well.
+Я думаю, что он знает правду.:I think that he knows the truth.
+Растущее число людей платят все те налоги, которые они должны:An increasing number of people pay all the taxes which they must pay.
+Привет, подруга.:Hello, girlfriend.
+Я родился двадцать восьмого августа вечером.:I was born on August twenty-eighth in the evening.
+Я получил штраф, потому что я не заплатил свои налоги вовремя.:I got a fine because I didn't pay my taxes on time.
+Прося о помощи, не забывайте, что никто не обязан помогать вам.:Asking for help, do not forget that no one has to help you.
+Отвечая на вопросы, не забывай, что ты не учитель.:Answering questions, do not forget that you are not a teacher.
+Он вычел шестнадцать из восьмидесяти девяти.:He subtracted sixteen from eighty nine.
+В этом месяце я уменьшила свой долг по кредитке.:This month, I have decreased my credit card debt.
+Можно мне писать красной ручкой?:May I write with the red pen?
+Сперва раздели его на десять, а затем умножь на семь.:First divide it by ten and then multiply by seven.
+Это дёшево или дорого?:Is this cheap or expensive?
+Но это значит, что мы потратим две трети нашего бюджета.:But it means that we will spend two-thirds of our budget.
+Я родилась седьмого октября.:I was born on October seventh.
+Мне не нравится его запах.:I don't like its smell.
+Ты не готовишь?:Aren't you cooking?
+Он приносит хлеб.:He brings the bread.
+Пожалуйста, продолжайте!:Please, continue!
 Он будет здесь через двенадцать часов.:He'll be here in twelve hours.
-Кто пил молоко?:Who drank the milk?
-Это мяч, и этот мяч - жёлтый.:It is a ball, and the ball is yellow.
-Я счастливее, чем ты.:I am happier than you.
-Это - самый короткий ответ, который я могу дать.:It is the shortest answer that I can give.
-Он - старший сын.:He is the oldest son.
-Я проверял свои имейлы, когда я получил сообщение от него.:I was checking my emails when I got a message from him.
+Это - самый короткий ответ.:It is the shortest answer.
+Эта лампа - дорогая.:The lamp is expensive.
+Ты используешь много масла?:Do you use much oil?
+Я вижу коробку, коробка - чёрная.:I see a box, the box is black.
+Она должна есть фрукты.:She has to eat fruit.
+Одна чашка равна шестнадцати столовым ложкам.:One cup equals sixteen tablespoons.
+Три умножить на пять равно пятнадцати.:Three times five equals fifteen.
+Площадь этого дома:The area of the house
+Красный карандаш намного меньше коричневого карандаша.:The red pencil is much smaller than the brown pencil.
+Ученики этой школы носят длинные синие пиджаки.:Students of this school wear long blue jackets.
+Он поёт тише, чем ему следует петь.:He sings more quietly than he should sing.
+Слоны умеют помнить.:Elephants can remember.
+Она говорила по-английски, а я говорил только по-русски.:She spoke English, and I spoke only Russian.
+Я жертвую деньги уже какое-то время, но не очень долго.:I have been donating money for a while, but not for very long.
+Быть здоровым стоит любых денег.:Being healthy is worth any money.
+три маленькие рыбы:three little fish
+Чтобы прожить долгую и здоровую жизнь, избегайте курения!:To live a long and healthy life avoid smoking!
+Ладно, увидимся.:Ok, see you.
+На это есть причина.:There is a reason for that.
+человек, который слишком много знал:the man who knew too much
+Глаза моей собаки - карие.:The eyes of my dog are brown.
+Лошади будут бежать вдоль реки.:The horses will be running along the river.
+Смотри прямо на синюю игрушку!:Look right at the blue toy!
+Я бегаю по полчаса после каждого приёма пищи.:I run for half an hour after every meal.
+Она стояла рядом со мной, но не помогла.:She stood near me but did not help.
+Включите говядину в их меню!:Include beef in their menu!
+Кто-нибудь ещё?:Anybody else?
+Сколько стоит этот диван?:How much is this sofa?
+оранжевое платье:an orange dress
+Чей чай ты пьёшь? - Твой.:Whose tea are you drinking? - Yours.
+Мой племянник не будет ждать, если ты не придёшь вовремя.:My nephew will not wait if you do not come on time.
+У меня есть моё имя, у неё есть своё.:I have my name, she has hers.
+Ты касаешься меня.:You are touching me.
+Во дворе утка.:There is a duck in the yard.
+Эта туфля на один размер больше.:This shoe is one size bigger.
+Этот мальчик трогал эту кошку.:The boy was touching the cat.
+Кого они любят?:Whom do they love?
+В июле она будет отвечать на наши письма каждый четверг.:In July, she will be answering our letters every Thursday.
+Было так темно, что я не мог видеть ничего.:It was so dark that I couldn't see anything.
+Ты и я будем гулять в парке, если там не будет много людей.:You and I will walk in the park if there are not many people.
+Это самая интересная часть фильма.:This is the most interesting part of the movie.
+Они открыли свой магазин шестьдесят лет назад.:They opened their shop sixty years ago.
+Чтение и письмо являются наиболее важными частями нашей:Reading and writing are the most important parts of our program.
+Его руки - короткие.:His arms are short.
+Я летал?:Did I fly?
+Я всегда прихожу вовремя.:I always come on time.
+Несчастные случаи происходят, когда ты меньше всего ожидаешь:Accidents happen when you least expect them.
+Магазин открывается через двадцать минут.:The shop opens in twenty minutes.
+Мы приготовили куриный суп на обед.:We made chicken soup for lunch.
+Трава и деревья зелены.:The grass and the trees are green.
+Я уже был в её доме.:I have already been in her house.
+Эти дома были построены в тысяча пятьсот сорок четвёртом.:These houses were built in fifteen forty-four.
+Имя вашего учителя написано здесь.:The name of your teacher is written here.
+Она редко читает книги.:She seldom reads books.
+Он уже разговаривал с ней?:Has he already talked to her?
+Мы редко говорим по-английски.:We seldom speak English.
