@@ -250,3 +250,5 @@ That would decrease all the prices at once.:Это бы понизило все 
 You can pay either in rubles or in dollars.:Вы можете заплатить либо в рублях, либо в долларах.
 They make little white ducks.:Они делают маленьких белых уточек.
 I put on my clothes and went outside.:Я надел свою одежду и пошёл на улицу.
+They haven't seen each other since that time.:Они не видели друг друга с того времени.
+It has not rained since spring.:Дождя не было с весны.

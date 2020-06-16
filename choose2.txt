@@ -46,14 +46,14 @@ are dangerous predators.: are dangerous predators.
 They ate andbetter.:felt
 Did theyits weight?:Остается  очков опыта до ежедневной цели
 Keep breastfeeding them until they gain enough:a weight
-Fill in the pass:Сегодня вы заработали  очков опыта
+Fill in the pass:Заполните пропуск
 Are you a:doctors
 Their dog is notthan ours.:big
 I need toto you.:talk
 Let's add him to your:contacts
 We need to:Сегодня вы заработали  очков опыта
 Shemy brother.:trust
-A kitchen is a room where people:A kitchen is a room where people 
+A kitchen is a room where people:A kitchen is a room where people
 He was leaving when hea message from his brother.:receive
 They wereso well, but he interrupted them.:sang
 I was justwhen he came.:leaving
@@ -95,7 +95,7 @@ How long have youeach other?:known
 These questions were asked by and those were asked by:teachers
 They hugged, and shehim.:kissed
 Sheseveral deer.:drew
-Are youa snail?:Are you 
+Are youa snail?:Are you
 You should read this letter asas you can.:carefully
 I barely speak English, but my husbandvery well.:speaks
 Shenear me but did not help.:stood
@@ -269,7 +269,7 @@ Did youmy credit card last week?:use
 Ia book.:Остается  очков опыта до ежедневной цели
 I alwaysten thousand dollars for a rainy day.:keeps
 severaland oranges:bananas
-Could youher a pen?:Could you 
+Could youher a pen?:Could you
 I will write my address if youme a pen.:brought
 Where do theythe salt?:keep
 Weyou.:respect
@@ -292,3 +292,17 @@ What are theyus?:offering
 He waswhen she called.:shaving
 Is this textby one of you?:written
 I feel good because my childrenwell.:behave
+He is:winning
+Ieating less, but it did not help me to lose weight.:tried
+Have you everit?:done
+The woman ison a hat.:putting
+Ais the money you earn.:salary
+I have neveror eaten anything blue.:drunk
+Do not jump, you might:fall
+We trust:him
+Your pen isthan mine.:longer
+She did notto punish them.:mean
+Call me if she:comes
+Hesixteen from eighty nine.:subtracting
+Your facewashing.:need
+I receive fouremails a week.:hundreds

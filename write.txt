@@ -6,10 +6,6 @@
 дерево:a tree, a tree, the tree, tree
 угол:a corner, a corner, the corner, corner
 ручка (для письма):a pen, a pen, the pen, pen
- костюм (деловой):a suit, a suit, the suit, suit
- бабушка:a grandmother
- туалет:a bathroom
- черепаха (сухопутная):a turtle, a turtle, the turtle, turtle
- обед:lunch, a lunch, the lunch, lunch
- дерево:a tree, a tree, the tree, tree
- машина:a car
+бабушка:a grandmother
+обед:lunch, a lunch, the lunch, lunch
+ угол:a corner, a corner, the corner, corner
